@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    border: 1px ridge red;
+    height: auto;
+}
+
+h1 {
+    width: auto;
+    margin: auto;
+    
+}
+
+button {
+    margin-top: 30px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
